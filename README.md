@@ -1,8 +1,9 @@
 ## Integrantes 
 * Santiago Silva
-*
+* Henry Martinez
+* Julian Rojas
 
-## Documentacion Codigo
+## Documentacion Laboratorio 1 Arquitectura de Procesadores
 
 ![prueba](./Imagenes/lisa%20850.jfif)
 **Funciones y Usos del Sumador de 4 Bits**:
