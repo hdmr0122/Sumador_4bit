@@ -4,7 +4,6 @@
 * Julian Rojas
 
 ## Documentacion Laboratorio 1 Arquitectura de Procesadores
-
 ![prueba](./Imagenes/lisa%20850.jfif)
 **Funciones y Usos del Sumador de 4 Bits**:
 Suma de Números Binarios: El sumador de 4 bits puede sumar dos números binarios de 4 bits, produciendo un resultado de 4 bits y un bit adicional de acarreo (carry-out) si la suma excede el valor máximo de 4 bits (15 en decimal).
